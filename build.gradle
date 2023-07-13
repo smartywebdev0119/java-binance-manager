@@ -23,7 +23,7 @@ dependencies {
 publishing {
     publications {
         maven(MavenPublication) {
-            groupId = 'com.tecknobit.binancemanager'
+            groupId = 'com.pRose.binancemanager'
             artifactId = 'BinanceManager'
             version = '2.0.2'
             from components.java
